@@ -2,6 +2,8 @@
 
 <h3>Adding new feature/fix/file/program</h3>
 <ol>
+  <li>create or find issue</li>
+  <li>assign issue</li>
   <li>git pull</li>
   <li>git checkout -b 'type'/'change'</li>
   <li>Utfør handlinger og endringer</li>
