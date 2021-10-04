@@ -6,7 +6,7 @@
   <li>assign issue</li>
   <li>git pull</li>
   <li>git checkout -b 'type'/'change'</li>
-  <li>Utfør handlinger og endringer</li>
+  <li>Make changes and do actions</li>
   <li>git add .</li>
   <li>git commit -am "action: file"</li>
   <li>git push</li>
