@@ -20,6 +20,7 @@
   <li>Write files added/changed</li>
   <li>Write summary of changes to those files</li>
   <li>Write what program or change does</li>
+  <li>Link issue</li>
   <li>Wait for another owner to accept pull request</li>
 </ol>
 
